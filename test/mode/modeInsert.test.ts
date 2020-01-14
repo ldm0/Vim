@@ -237,6 +237,13 @@ suite('Mode Insert', () => {
   });
 
   newTest({
+    title: 'Delete works with repeat',
+    start: ['This is| not good'],
+    keysPressed: 'a<Del><Del><Del><Del><Esc>.iawesome!<Esc>',
+    end: ['This is awesome!'],
+  });
+
+  newTest({
     title: 'Can <Esc> after entering insert mode from <ctrl+o>',
     start: ['|'],
     keysPressed: 'i<C-o>i<Esc>',
