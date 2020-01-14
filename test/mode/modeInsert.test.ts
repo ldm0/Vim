@@ -216,6 +216,20 @@ suite('Mode Insert', () => {
   });
 
   newTest({
+    title: 'Delete works at line end',
+    start: ['boy next| ', 'door'],
+    keysPressed: 'a<Del><Esc>',
+    end: ['boy next |door'],
+  });
+
+  newTest({
+    title: 'Delete works at end of file',
+    start: ['yes si|r'],
+    keysPressed: 'a<Del><Esc>',
+    end: ['yes si|r'],
+  });
+
+  newTest({
     title: 'Can <Esc> after entering insert mode from <ctrl+o>',
     start: ['|'],
     keysPressed: 'i<C-o>i<Esc>',
