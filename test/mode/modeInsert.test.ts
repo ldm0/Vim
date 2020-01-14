@@ -239,8 +239,8 @@ suite('Mode Insert', () => {
   newTest({
     title: 'Delete works with repeat',
     start: ['This is| not good'],
-    keysPressed: 'a<Del><Del><Del><Del><Esc>.iawesome!<Esc>',
-    end: ['This is awesome!'],
+    keysPressed: 'a<Del><Del><Del><Del><Esc>.aawesome!<Esc>',
+    end: ['This is awesome|!'],
   });
 
   newTest({
