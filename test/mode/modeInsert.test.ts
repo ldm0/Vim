@@ -216,6 +216,13 @@ suite('Mode Insert', () => {
   });
 
   newTest({
+    title: 'Delete works in insert mode',
+    start: ['leather ma|an'],
+    keysPressed: 'i<Del><Esc>',
+    end: ['leather m|an'],
+  });
+
+  newTest({
     title: 'Delete works at line end',
     start: ['boy next| ', 'door'],
     keysPressed: 'a<Del><Esc>',
