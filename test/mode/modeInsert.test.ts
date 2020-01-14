@@ -219,7 +219,7 @@ suite('Mode Insert', () => {
     title: 'Delete works at line end',
     start: ['boy next| ', 'door'],
     keysPressed: 'a<Del><Esc>',
-    end: ['boy next |door'],
+    end: ['boy next| door'],
   });
 
   newTest({
