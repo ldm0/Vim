@@ -1416,8 +1416,8 @@ suite('Mode Normal', () => {
     ],
     keysPressed: 'Vgq',
     end: [
-      '    // We choose to write a vim extension, not because it is easy, but because',
-      '|    // it is hard.',
+      '\t// We choose to write a vim extension, not because it is easy, but because',
+      '|\t// it is hard.',
     ],
   });
 
@@ -1430,6 +1430,69 @@ suite('Mode Normal', () => {
     end: [
       '\t\t// We choose to write a vim extension, not because it is easy, but',
       '|\t\t// because it is hard.',
+    ],
+  });
+
+  newTest({
+    title: 'gq correctly process `//` new style adoption after seven lines',
+    start: [
+      '|',
+      '                   //huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a',
+      '                  // huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a',
+      '                 //  huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a',
+      '                //   huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a',
+      '               //    huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a',
+      '              //     huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a',
+      '             //      huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a',
+      '            //       huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a',
+    ],
+    keysPressed: 'gq}',
+    end: [
+      '\t\t\t\t   //huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd',
+      '\t\t\t\t   //fa sdf a     huh huh huhu emem aksdjlkasjdf asdfjasss dffa',
+      '\t\t\t\t   //sdf asd fasd fa sdf a     huh huh huhu emem aksdjlkasjdf',
+      '\t\t\t\t   //asdfjasss dffa sdf asd fasd fa sdf a     huh huh huhu emem',
+      '\t\t\t\t   //aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a     huh',
+      '\t\t\t\t   //huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa',
+      '\t\t\t\t   //sdf a',
+      '\t\t\t  //     huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd',
+      '\t\t\t  //     fa sdf a     huh huh huhu emem aksdjlkasjdf asdfjasss dffa',
+      '\t\t\t  //     sdf asd fasd fa sdf a     huh huh huhu emem aksdjlkasjdf',
+      '\t\t\t  //     asdfjasss dffa sdf asd fasd fa sdf a',
+    ],
+  });
+
+  newTest({
+    title: 'gq handles bullet comment with comment in first line',
+    start: [
+      "/* |pen",
+      " * apple",
+      " */",
+      " ",
+    ],
+    keysPressed: 'gq}',
+    end: [
+      "/* pen apple",
+      " */",
+      "| ",
+    ],
+  });
+
+  newTest({
+    title: 'gq handle bullet comment without comment in first line',
+    start: [
+      "/*| ",
+      " * pen",
+      " * apple",
+      " */",
+      " ",
+    ],
+    keysPressed: 'gq}',
+    end: [
+      "/* ",
+      " * pen apple",
+      " */",
+      "| ",
     ],
   });
 

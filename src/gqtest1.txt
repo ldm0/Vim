@@ -1,0 +1,266 @@
+// emmm
+// haha
+
+//  asdeemmmasde asdfasda asdfaaaaaaaaaaaasdfsfsadflakjalsdlk;fj
+// adosjfnasodfbglsai asdofasdfsda;lkj
+//em easlkjf asdjlk;flk;ajdsflks
+         // haha
+// emmmasdkjfljasdf asldkfja;lksdjfklas df lkkasdjf;asdfk
+// also
+// aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+// huh
+ememmm
+
+    // donoughliu there usually two chunk of diff one before diff(whole chunk), one current change
+    // [obj('fuckyo'), obj('u')]
+    // console.log(diffs);
+    for (const diff of diffs) {
+      const [whatHappened, text] = diff;
+      const added = whatHappened === DiffMatchPatch.DIFF_INSERT;
+      const removed = whatHappened === DiffMatchPatch.DIFF_DELETE;
+
+/** huh
+ *  hahhaha asdfkjalksdflk;asjdlfkjl asldjf;jasdfj
+ * emmmasd;kfj laksdjf lasdd fl;sakljdflka l dlfj;lakjdsfl a;s df adfklsalk;d fa kl;asdkfa sdfadslkfj as  df a;sdjfkasd f;asd;lk faslkd faskl df
+ */
+
+/* pen
+ * apple
+ */
+
+/*
+ * pen
+ * apple
+ */
+
+/*  pen
+ * apple
+ * emmmasd;kfj laksdjf lasdd fl;sakljdflka l dlfj;lakjdsfl a;s df adfklsalk;d fa kl;asdkfa sdfadslkfj as  df a;sdjfkasd f;asd;lk faslkd faskl df
+ */ huh
+
+/** pen
+ * apple  asdlfjkas df
+ */
+
+/**
+ * pen
+ * apple
+ * haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ * emmmsdf
+ * haha
+ */
+
+ * apple
+ * emmmasd;kfj laksdjf lasdd fl;sakljdflka l dlfj;lakjdsfl a;s df adfklsalk;d fa kl;asdkfa sdfadslkfj as  df a;sdjfkasd f;asd;lk faslkd faskl df
+
+/* emm yeeeeeeeeeeee haha
+ * yeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees
+ * haha yeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeees
+ */
+
+ha emm
+- hasdf
+ esdflm sdf asdf as dflkasjlkdfjlkas d faskldf alk;s dfjlksa djf asldflkal dsf as dsflkkjsdlk flka; ldf alksdfja sdklf; j asdl;kjflakdsjf a sdfl;kjasdlkf alks jfdlka sjdfkla jsdfla; dfsk
+
+-      hasdf
+ esdflm sdf asdf as dflkasjlkdfjlkas d faskldf alk;s dfjlksa djf asldflkal dsf as dsflkkjsdlk flka; ldf alksdfja sdklf; j asdl;kjflakdsjf a sdfl;kjasdlkf alks jfdlka sjdfkla jsdfla; dfsk
+
+-  hasdf
+ esdflm sdf asdf as dflkasjlkdfjlkas d faskldf alk;s dfjlksa djf asldflkal dsf as dsflkkjsdlk flka; ldf alksdfja sdklf; j asdl;kjflakdsjf a sdfl;kjasdlkf alks jfdlka sjdfkla jsdfla; dfsk
+
+    -   hasdf
+  esdflm sdf asdf as dflkasjlkdfjlkas d faskldf alk;s dfjlksa djf asldflkal dsf as dsflkkjsdlk flka; ldf alksdfja sdklf; j asdl;kjflakdsjf a sdfl;kjasdlkf alks jfdlka sjdfkla jsdfla; dfsk
+
+                                                -  hasdf
+ esdflm sdf asdf as dflkasjlkdfjlkas d faskldf alk;s dfjlksa djf asldflkal dsf as dsflkkjsdlk flka; ldf alksdfja sdklf; j asdl;kjflakdsjf a sdfl;kjasdlkf alks jfdlka sjdfkla jsdfla; dfsk
+
+- hasdf
+ esdflm sdf asdf as dflkasjlkdfjlkas d faskldf alk;s dfjlksa djf asldflkal dsf as dsflkkjsdlk                                                   flka; ldf alksdfja sdklf; j asdl;kjflakdsjf a sdfl;kjasdlkf alks jfdlka sjdfkla jsdfla; dfsk
+
+
+/* pen
+ * haha
+*/
+
+/* pen
+ * haha
+*/ emm
+haha
+
+/* pen
+ * haha
+ab emm
+haha
+
+* haha
+* haha
+
+* haha
+*haha
+
+ //  emm
+  //hasdhf esdflm sdf asdf as dflkasjlkdfjlkas d faskldf alk;s dfjlksa djf asldflkal dsf as dsflkkjsdlk flka; ldf alksdfja sdklf; j asdl;kjflakdsjf a sdfl;kjasdlkf alks jfdlka sjdfkla jsdfla; dfsk
+
+/* emmmasd;kfj laksdjf lasdd fl;sakljdflka l dlfj;lakjdsfl a;s df adfklsalk;d fa kl;asdkfa sdfadslkfj as  df a;sdjfkasd f;asd;lk faslkd faskl df*/
+
+*/ emmmasd;kfj laksdjf las dd fl;sakljdflka l dlfj;lakjdsfl a;s df adfklsalk;d fa kl;asdkfa sdfadslkfj as  df a;sdjfkasd f;asd;lk faslkd faskl df*/
+
+
+                   //huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+                  // huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+                 //  huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+                //   huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+               //    huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+              //     huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+             //      huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+            //       huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+
+                                   //huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd
+                                   //fa sdf a     huh huh huhu emem aksdjlkasjdf asdfjasss dffa
+                                   //sdf asd fasd fa sdf a     huh huh huhu emem aksdjlkasjdf
+                                   //asdfjasss dffa sdf asd fasd fa sdf a     huh huh huhu emem
+                                   //aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a     huh
+                                   //huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa
+                                   //sdf a
+                          //     huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd
+                          //     fa sdf a     huh huh huhu emem aksdjlkasjdf asdfjasss dffa
+                          //     sdf asd fasd fa sdf a     huh huh huhu emem aksdjlkasjdf
+                          //     asdfjasss dffa sdf asd fasd fa sdf a
+
+    //huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+   // huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+  //  huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+ //   huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+//huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+ //huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+
+                   //huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+                  // huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+                 //  huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+                //   huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+               //    huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+              //     huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+             //      huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+            //       huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+           //        huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+          //         huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+         //huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+        // huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+       //  huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+      //   huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+     //    huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+    //     huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+   //      huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+  //       huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+ //        huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+//         huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+//        huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+//       huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+//      huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+//     huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+//    huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+//   huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+//  huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+// huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+//huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+// huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+//  huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+//   huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+//    huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+//     huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+//      huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+//        huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+//         huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+//         huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+ //        huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+  //       huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+   //      huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+    //     huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+     //    huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+      //   huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+       //  huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+        // huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+         //huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+          //         huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+           //        huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+            //       huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+             //      huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+              //     huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+               //    huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+                //   huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+                 //  huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+                  // huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+                   //huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+
+
+                                   //huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd
+                                   //fa sdf a     huh huh huhu emem aksdjlkasjdf asdfjasss dffa
+                                   //sdf asd fasd fa sdf a     huh huh huhu emem aksdjlkasjdf
+                                   //asdfjasss dffa sdf asd fasd fa sdf a     huh huh huhu emem
+                                   //aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a     huh
+                                   //huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa
+                                   //sdf a
+                          //     huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd
+                          //     fa sdf a     huh huh huhu emem aksdjlkasjdf asdfjasss dffa
+                          //     sdf asd fasd fa sdf a     huh huh huhu emem aksdjlkasjdf
+                          //     asdfjasss dffa sdf asd fasd fa sdf a     huh huh huhu emem
+                          //     aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a     huh
+                          //     huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa
+                          //     sdf a
+                 // huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+                 // huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+                 // huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+                 // huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+                 // huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+        //     huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+        //     huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+        //     huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+        //     huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+        //     huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+//        huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+//        huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+//        huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+//        huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+//        huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+//        huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+//        huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+//        huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+//huh huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a     huh
+//huh huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a     huh huh
+//huhu emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a     huh huh huhu
+//emem aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a     huh huh huhu emem
+//aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a     huh huh huhu emem
+//aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a     huh huh huhu emem
+//aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a     huh huh huhu emem
+//aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a     huh huh huhu emem
+//aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a     huh huh huhu emem
+//aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a     huh huh huhu emem
+//aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a     huh huh huhu emem
+//aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a     huh huh huhu emem
+//aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a     huh huh huhu emem
+//aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a     huh huh huhu emem
+//aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a     huh huh huhu emem
+//aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a     huh huh huhu emem
+//aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a     huh huh huhu emem
+//aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a     huh huh huhu emem
+//aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a     huh huh huhu emem
+//aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a     huh huh huhu emem
+//aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a     huh huh huhu emem
+//aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a     huh huh huhu emem
+//aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a     huh huh huhu emem
+//aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a     huh huh huhu emem
+//aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a     huh huh huhu emem
+//aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a     huh huh huhu emem
+//aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a     huh huh huhu emem
+//aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a     huh huh huhu emem
+//aksdjlkasjdf asdfjasss dffa sdf asd fasd fa sdf a
+
+    // We choose to write a vim extension, not because it is easy, but because it is hard|.
+
+基本上放弃了这个gq,想要真的实现真的非常恶心，首先是上面那个飞机就要看//左边的空格和右边的空格来判断是否改变style，然后七行又得重新换style，关
+键是鬼知道为什么七行换style然后本身的设计是根据一个prefix 生成后面的prefix，其中譬如/* 生成 * 然后- 生成等长的indent, *
+生成 * 等等，这些又只是我已知的看见的，但是不知道又有多少没有看见的规则，vim真的傻逼文档，又不说几个字，规则又反人类，关键vscodevim那
+帮maintainer又不干事，我的两个PR挂在那tm一个多月了。测试框架又你妈狗屎，连个好用的现代的自动化测试框架都写不起吗?每个test都得有一个名字,那
+我一种test写好几个测试样例怎么办？复制一样的名字然后01234后缀?wdnmd，然后前面写代码的那个人，还是CMU还是MIT的还
+是vscodevim group member，写代码糊鬼呢？连个测试都没，写vim模拟器全你妈臆想规则，稍微异常一点的文本立马挂掉，简直傻逼，我没话说了。
+老子修你妈了个鸡
